@@ -25,7 +25,7 @@ I owned one on namecheap.com
 
 ---
 
-### The arcane magic
+### The Arcane Magic
 
 Add two Domain Name Service (DNS) records on your domain registrar
 
@@ -36,7 +36,7 @@ Your registrar or friendly DNS admin *will* help with this if you speak the magi
 
 ---
 
-###The Magic Words###
+### The Magic Words 
 
 "I need to add some DNS records to my domain's DNS"
 
