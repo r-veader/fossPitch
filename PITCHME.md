@@ -64,4 +64,6 @@ In your Github repository:
 - Add your custom domain name
 - Wait a bit
 - Go back to the same place and check the "Enforce HTTPS" option that appears!
-
+@snap[north-east span-45]
+![IMAGE](assets/img/githubSSL.png)
+@snapend
