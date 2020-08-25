@@ -4,7 +4,7 @@
 
 ### First you need to own a domain.
 
-![IMAGE](assets/img/namecheap.svg)
+![IMAGE](assets/img/namecheap.png)
 
 I owned one on namecheap.com
 
@@ -17,7 +17,7 @@ I owned one on namecheap.com
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/namecheap.svg)
+![IMAGE](assets/img/namecheap.png)
 @snapend
 
 @snap[south span-100]
