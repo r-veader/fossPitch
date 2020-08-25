@@ -73,6 +73,7 @@ In your Github repository:
 
 ---
 
-Go to your gitpage site and look for the SSL Lock! 
+Go to your gitpage site and look for the SSL Lock! ![IMAGE](assets/img/sslLock.png)
+
 
 (try incognito mode if your browser is cacheing the old version)
