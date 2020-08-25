@@ -62,8 +62,17 @@ In your Github repository:
 - Click the gear for settings
 - Scroll down to the Github Pages section
 - Add your custom domain name
-- Wait a bit
+- Wait a bit (Mine took about 5 minutes)
+
+---
+
 - Go back to the same place and check the "Enforce HTTPS" option that appears!
 @snap[north-east span-45]
 ![IMAGE](assets/img/githubSSL.png)
 @snapend
+
+---
+
+Go to your gitpage site and look for the SSL Lock! 
+
+(try incognito mode if your browser is cacheing the old version)
