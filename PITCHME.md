@@ -56,7 +56,7 @@ for my site **rickhub.redhouserun.com** *rickhub* is the subdomain and *redhouse
 
 ---
 
-###The Github part###
+### The Github part
 
 In your Github repository:
 - Click the gear for settings
