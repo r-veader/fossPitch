@@ -50,7 +50,7 @@ Your registrar or friendly DNS admin *will* help with this if you speak the magi
 
 for my site **rickhub.redhouserun.com** *rickhub* is the subdomain and *redhouserun.com* is the domain 
 
-rickhub CNAME "r-veader.github.io
+rickhub CNAME "r-veader.github.io"
 
 rickhub CAA 0 issue "letsencrypt.org"
 
