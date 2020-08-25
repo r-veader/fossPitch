@@ -17,7 +17,7 @@ I owned one on namecheap.com
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/namecheap.png)
+![IMAGE](assets/img/registrars.png)
 @snapend
 
 @snap[south span-100]
