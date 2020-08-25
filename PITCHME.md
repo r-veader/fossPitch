@@ -40,9 +40,9 @@ Your registrar or friendly DNS admin *will* help with this if you speak the magi
 
 "I need to add some DNS records to my domain's DNS"
 
-*YOURSUBDOMAIN* CNAME *yourGitHubUserName*.github.io
+`YOURSUBDOMAIN CNAME yourGitHubName.github.io`
 
-*YOURSUBDOMAIN* CAA 0 issue “letsencrypt.org”
+`YOURSUBDOMAIN CAA 0 issue “letsencrypt.org”`
 
 ---
 
@@ -50,9 +50,9 @@ Your registrar or friendly DNS admin *will* help with this if you speak the magi
 
 for my site **rickhub.redhouserun.com** *rickhub* is the subdomain and *redhouserun.com* is the domain 
 
-rickhub CNAME "r-veader.github.io"
+`rickhub CNAME "r-veader.github.io"`
 
-rickhub CAA 0 issue "letsencrypt.org"
+`rickhub CAA 0 issue "letsencrypt.org"`
 
 ---
 
